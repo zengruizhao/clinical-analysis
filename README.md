@@ -3,10 +3,10 @@
 
 - calibration curve
 
-![1](https://github.com/zzrnuist/clinical-analysis/blob/master/fig/calibrationCurve.tif)
+![1](http://i2.tiimg.com/704769/f0327390cdc8526a.png)
 - decision curve
 
-![2](https://github.com/zzrnuist/clinical-analysis/blob/master/fig/decisionCurve.tif)
+![2](http://i2.tiimg.com/704769/c5fd54c505a7ff4a.png)
 - prediction visualization
 
-![3](https://github.com/zzrnuist/clinical-analysis/blob/master/fig/visualization.tif)
+![3](http://i2.tiimg.com/704769/d49c5da01699f015.png)
