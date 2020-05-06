@@ -3,7 +3,7 @@
 
 - calibration curve
 
-![1](http://i2.tiimg.com/704769/f0327390cdc8526a.png)
+![1](./calibrationCurve.png)
 - decision curve
 
 ![2](http://i2.tiimg.com/704769/c5fd54c505a7ff4a.png)
