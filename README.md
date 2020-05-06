@@ -9,4 +9,4 @@
 ![2](./fig/decisionCurve.png)
 - prediction visualization
 
-![3](./fig/visulation.png)
+![3](./fig/visualization.png)
