@@ -3,10 +3,10 @@
 
 - calibration curve
 
-![1](./calibrationCurve.png)
+![1](./fig/calibrationCurve.png)
 - decision curve
 
-![2](http://i2.tiimg.com/704769/c5fd54c505a7ff4a.png)
+![2](./fig/decisionCurve.png)
 - prediction visualization
 
-![3](http://i2.tiimg.com/704769/d49c5da01699f015.png)
+![3](./fig/visulation.png)
